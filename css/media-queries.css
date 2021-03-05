@@ -28,7 +28,7 @@ footer {
 }
 @media (max-width: 600px){
     body{
-        width: 350px;
+        width: 359px;
     }
     .blogs-post-container .post-container{
         max-width: 95%;
@@ -52,7 +52,7 @@ nav .profile-link {
 }
 .home-main-text {
     margin-bottom: 0;
-    font-size: 28px;
+    font-size: 20px;
 }
 .contact-main-container div {
     width: 45.5%;
