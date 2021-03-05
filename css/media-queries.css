@@ -26,6 +26,7 @@ footer {
     height: 118px;
 }
 }
+
 @media (max-width: 600px){
     body{
         width: 359px;
